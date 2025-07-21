@@ -66,7 +66,8 @@ Fique à vontade para explorar. **Toda sugestão, feedback ou conexão é bem-vi
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      width="500"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegogitup&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
