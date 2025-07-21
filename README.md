@@ -58,7 +58,7 @@ Fique à vontade para explorar. **Toda sugestão, feedback ou conexão é bem-vi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Diegogitup&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
